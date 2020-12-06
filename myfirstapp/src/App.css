@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Castoro&display=swap");
+
+.navbar {
+  background-color: rgb(239, 241, 253);
+}
+
+.form-wrapper {
+  padding: 20px 40px;
+  border-radius: 10px;
+  box-shadow: 0px 10px 50px rgb(195, 201, 241);
+  background-color: #ffffff;
+}
+.Landing {
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.img {
+  border: none;
+  width: 450px;
+  padding-top: 90px;
+  padding-bottom: 70px;
+  padding-left: 90px;
+}
